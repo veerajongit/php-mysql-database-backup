@@ -1,0 +1,18 @@
+{
+    "name": "veeraj/php-mysql-db-backup",
+    "description": "Backup mysql database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Veeraj Shenoy",
+            "email": "veeraj@3iology.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Backup": "src/"
+        }
+    }
+}
